@@ -16,3 +16,7 @@ Finished all of my pcb schematic except the rotary encoder. I've sent a message 
 ## 8/2 - 1 hr 24 min
 
 Someone in the slack told me how to do the rotary encoder and i finally finished the schematic. I assigned all of the footprints, and I arranged them. It was a pain though, so many pieces especially putting the diodes. I kept accidentally opening footprint properties. I want to add a oled screen now because there is a awkward area on the side because the raspberry pi needed a spot to be but i'm not sure there are enough pins.
+
+![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-02%20163438.png)
+![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-02%20163503.png)
+![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-02%20163549.png)
