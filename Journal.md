@@ -20,3 +20,11 @@ Someone in the slack told me how to do the rotary encoder and i finally finished
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-02%20163438.png)
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-02%20163503.png)
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-02%20163549.png)
+
+## 8/4 - 1 hr 7 min 
+
+I've added a OLED screen and 3d models to the pcb. I was about to wire everything in the pcb editior but erc keeps giving me the error input power pin not driven by any output power pins. I don't know how to fix it. (So actually as I was writing this someone responded to my pleas for help on slack and they helped me fix it. Yay! And thanks hershey) Now all I have to do is wire everything, which I will do now and tack the extra time on.
+![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20122351.png)
+![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20131151.png)
+![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20131214.png)
+![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20131300.png)
