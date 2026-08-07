@@ -29,3 +29,7 @@ I've added a OLED screen and 3d models to the pcb. I was about to wire everythin
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20131214.png)
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20131300.png)
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20194714.png)
+
+## 8/6 - 27 min
+
+I just ran the drc and fixed a few silkscreen issues, then I exported the gerbers and put them in github. I don't really have any photos because I just moved a few silksreen things around because they were over the board edge.
