@@ -23,7 +23,7 @@ Someone in the slack told me how to do the rotary encoder and i finally finished
 
 ## 8/4 - 1 hr 7 min - 1 hr 48 min
 
-I've added a OLED screen and 3d models to the pcb. I was about to wire everything in the pcb editior but erc keeps giving me the error input power pin not driven by any output power pins. I don't know how to fix it. (So actually as I was writing this someone responded to my pleas for help on slack and they helped me fix it. Yay! And thanks hershey) Now all I have to do is wire everything, which I will do now and tack the extra time on. |  Two-ish hours of wiring bs I just went through. So many times I had to erase everything because something was blocking something which made everything stop working. I'm immeasurably happy that it's done.
+I've added a OLED screen and 3d models to the pcb. I was about to wire everything in the pcb editior but erc keeps giving me the error input power pin not driven by any output power pins. I don't know how to fix it. (So actually as I was writing this someone responded to my pleas for help on slack and they helped me fix it. Yay! And thanks hershey) Now all I have to do is wire everything, which I will do now and tack the extra time on. |  Wiring is my new least favorite part of pcbs. So many times I had to erase everything because something was blocking something which made everything stop working. I'm immeasurably happy that it's done.
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20122351.png)
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20131151.png)
 ![alt text](https://github.com/BeeeY/my-keeb/blob/main/Journal%20Photos/Screenshot%202026-08-04%20131214.png)
@@ -33,3 +33,10 @@ I've added a OLED screen and 3d models to the pcb. I was about to wire everythin
 ## 8/6 - 27 min
 
 I just ran the drc and fixed a few silkscreen issues, then I exported the gerbers and put them in github. I don't really have any photos because I just moved a few silksreen things around because they were over the board edge.
+
+## 9/4 - 54 min
+
+I made the case, it's mostly done, I just need to add a few bits to completely cover the pcb and probably and engraved thing to fill up the empty space on the case. It's been a while since I last worked on this but the deadline is this month so I kinda have to start working again. I also realized in the time between the last one that you can drag and drop photos into github instead of linking, which sucks because linking was a lot of work.
+<img width="388" height="176" alt="Screenshot 2026-09-04 194946" src="https://github.com/user-attachments/assets/a3799015-2bc2-45f7-b1f7-f6d005f39bd2" />
+<img width="679" height="241" alt="Screenshot 2026-09-04 194930" src="https://github.com/user-attachments/assets/cd787c3d-9d46-4010-8885-9acdb437e15b" />
+
