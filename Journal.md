@@ -40,3 +40,7 @@ I made the case, it's mostly done, I just need to add a few bits to completely c
 <img width="388" height="176" alt="Screenshot 2026-09-04 194946" src="https://github.com/user-attachments/assets/a3799015-2bc2-45f7-b1f7-f6d005f39bd2" />
 <img width="679" height="241" alt="Screenshot 2026-09-04 194930" src="https://github.com/user-attachments/assets/cd787c3d-9d46-4010-8885-9acdb437e15b" />
 
+## 9/5 - 32 min
+
+I finished the case and added a little bee to fill up the empty space, it took a lot longer then I thought it would but at least it looks cute now.
+<img width="299" height="340" alt="Screenshot 2026-09-05 190942" src="https://github.com/user-attachments/assets/b1c4502b-9c66-453f-a8bf-6feb29318ff6" />
