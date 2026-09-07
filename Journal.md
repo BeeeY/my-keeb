@@ -44,3 +44,8 @@ I made the case, it's mostly done, I just need to add a few bits to completely c
 
 I finished the case and added a little bee to fill up the empty space, it took a lot longer then I thought it would but at least it looks cute now.
 <img width="299" height="340" alt="Screenshot 2026-09-05 190942" src="https://github.com/user-attachments/assets/b1c4502b-9c66-453f-a8bf-6feb29318ff6" />
+
+## 9/6 - 17 min 
+
+I've started doing the firmware with rmk, and it's kinda like qmk which ive done before, also the cloud way is so much easier than local, everyone should just use the github way. The instructions for local are super long, while the cloud way is just a page.
+<img width="676" height="388" alt="Screenshot 2026-09-06 193005" src="https://github.com/user-attachments/assets/4af02302-3416-4b70-be30-89074ad7f2bb" />
