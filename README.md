@@ -1,5 +1,5 @@
 # Beey's Keys
-A custom 65% keyboard made by me. 
+A custom 65% keyboard with a rotary encoder and oled screen.
 
 I came into this with after making a hackpad, so I already knew simple things. I definitely still had trouble with the rotary encoder and screen though, since I've never used those before and rmk was hard to figure out since I used qmk for the hackpad.
 
