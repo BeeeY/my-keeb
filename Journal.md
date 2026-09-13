@@ -47,5 +47,9 @@ I finished the case and added a little bee to fill up the empty space, it took a
 
 ## 9/6 - 17 min 
 
-I've started doing the firmware with rmk, and it's kinda like qmk which ive done before, also the cloud way is so much easier than local, everyone should just use the github way. The instructions for local are super long, while the cloud way is just a page.
+I've started doing the firmware with rmk, and it's kinda like qmk which ive done before, also the cloud way is so much easier than local, everyone should just use the github way. The instructions for local a lot longer.
 <img width="676" height="388" alt="Screenshot 2026-09-06 193005" src="https://github.com/user-attachments/assets/4af02302-3416-4b70-be30-89074ad7f2bb" />
+
+## 9/13 
+
+I don't really know how to add a rotary encoder and oled in the rmk and no one's helped me in the slack help channel, and since the docs don't say I need the thing in submission, and someone told me I probably don't need it yet, I'm going to just submit it.
