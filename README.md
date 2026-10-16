@@ -1,6 +1,8 @@
 # Beey's Keys
 A custom 65% keyboard with a rotary encoder and oled screen. This was my first keyboard!
 
+I made this since I needed a keyboard, and it just seemed really cool. It was kinda fun? I had some experience with kicad from making a hackpad, but this was definitely harder, especially since it was my second-ish hardware project. The rotary encoder and oled were particularly hard to figure out. Some parts were more enjoyable though, like cad, and in the end I'm really happy with the result. Especially the little bee, since I'm a Beey :3
+
 <img width="554" height="323" alt="Screenshot 2026-09-12 161807" src="https://github.com/user-attachments/assets/a45ee2db-65b2-4a7a-82b8-19e3d39f6ced" />
 
 ## PCB
@@ -11,3 +13,8 @@ A custom 65% keyboard with a rotary encoder and oled screen. This was my first k
 
 ## Case
 <img width="825" height="333" alt="Screenshot 2026-09-12 162210" src="https://github.com/user-attachments/assets/382d13f4-da57-4b73-904f-54558a21d5c2" />
+
+## Made With
+-Kicad
+-Omshape
+-RMK
